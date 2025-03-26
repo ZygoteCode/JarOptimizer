@@ -1,4 +1,4 @@
-package it.gabrielebologna.jaroptimizer;
+package it.zygotecode.jaroptimizer;
 
 import org.apache.commons.io.IOUtils;
 import org.objectweb.asm.Attribute;
